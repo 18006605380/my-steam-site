@@ -7,7 +7,7 @@
     <h1>Melody's STEAM Club</h1>
 
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
+      张雨濛的STEAM俱乐部
     </p>
 
     <p class="home-links">
